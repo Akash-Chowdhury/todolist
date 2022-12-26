@@ -1,0 +1,16 @@
+.foot{
+    background-color: rgb(78, 77, 77);
+    margin-left: 0;
+    margin-right: 0;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    /* margin-bottom: 0; */
+    border-top: 2px solid black;
+}
+.foot p,a{
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+
+}
